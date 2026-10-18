@@ -17,11 +17,24 @@ Berikut, outputnya :
 ![Gambar 5](ss/output2.png)
 
 ## 3. Membuat Layout Sederhana
-Folder baru **lab4_layout** > **home.html**
+### Folder baru **lab4_layout** > **home.html**
 ![Gambar 6](ss/ss3.png)
 Berikut, outputnya :
 ![Gambar 7](ss/output3.png)
-Lalu, buat file baru **style.css**
+### Lalu, buat file baru **style.css**
 ![Gambar 8](ss/css3.png)
 Hasilnya seperti ini :
 ![Gambar 9](ss/outputcss3.png)
+
+## 4. Membuat Navigasi
+![Gambar 10](ss/ss4.png)
+Berikut, outputnya :
+![Gambar 11](ss/output4.png)
+
+## 5. Membuat Hero Panel
+Kode HTML :
+![Gambar 12](ss/ss5.png)
+Kode CSS :
+![Gambar 13](ss/css5.png)
+Berikut, outputnya :
+![Gambar 14](ss/output5.png)
