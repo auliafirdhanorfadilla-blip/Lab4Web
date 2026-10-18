@@ -15,3 +15,13 @@ Property clear digunakan untuk mengaturnya.
 ![Gambar 4](ss/css2.png)
 Berikut, outputnya :
 ![Gambar 5](ss/output2.png)
+
+## 3. Membuat Layout Sederhana
+Folder baru **lab4_layout** > **home.html**
+![Gambar 6](ss/ss3.png)
+Berikut, outputnya :
+![Gambar 7](ss/output3.png)
+Lalu, buat file baru **style.css**
+![Gambar 8](ss/css3.png)
+Hasilnya seperti ini :
+![Gambar 9](ss/outputcss3.png)
