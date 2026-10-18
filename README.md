@@ -63,3 +63,21 @@ Kode CSS :
 ![Gambar 20](ss/css7.png)
 Berikut, outputnya :
 ![Gambar 21](ss/output7.png)
+
+
+## 8. Menambahkan Content Artikel
+![Gambar 22](ss/ss8.png)
+Berikut, outputnya :
+![Gambar 23](ss/output8.png)
+
+
+## 9. Menambahkan Menu About 
+![Gambar 24](ss/ss9.png)
+Berikut, outputnya :
+![Gambar 25](ss/output9.png)
+
+## 10. Menambahkan Menu Contact
+![Gambar 26](ss/ss10.png)
+Berikut, outputnya :
+![Gambar 27](ss/output10.png)
+
