@@ -38,3 +38,13 @@ Kode CSS :
 ![Gambar 13](ss/css5.png)
 Berikut, outputnya :
 ![Gambar 14](ss/output5.png)
+
+## 6. Mengatur Layout Main dan Sidebar
+Menambahkan CSS Float :
+![Gambar 15](ss/css6.png)
+Kode HTML :
+![Gambar 16](ss/ss6.png)
+Menambahkan Widget-Box :
+![Gambar 17](ss/csss6.png)
+Berikut, outputnya :
+![Gambar 18](ss/output6.png)
