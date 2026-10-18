@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak-Layout Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h3>Contact Us</h3>
+            <nav>
+                <a href="home.html">Home</a>
+                <a href="artikel.html">Artikel</a>
+                <a href="about.html">About</a>
+                <a href="kontak.html" class="active">Contact</a>
+            </nav>
+        </header>
+        <div class="main-layout">
+            <main>
+                <h2>Kirim Pesan</h2>
+                <form action="#" method="post" style="margin-top:20px;">
+                    <div class="form-group">
+                        <label>Nama</label>
+                        <input type="text" name="nama" placeholder="Masukkan Nama Lengkap" requierd>
+                    </div>
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="email" name="email" placeholder="Masukkan Email" requierd>
+                    </div>
+                    <div class="form-group">
+                        <label>Message</label>
+                        <textarea name="message" rows="5" placeholder="Tulis Pesan Anda..." requierd></textarea>
+                    </div>
+                    <button type="submit" class="btn">Kirim</button>
+                </form>
+            </main>
+            <aside>
+                <div class="widget">
+                    <div class="widget-tittle">Info Kontak</div>
+                    <p>Email : info@pelitabangsa.ac.id<br>WA : 08xx-xxxx-xxxx</p>
+                </div>
+            </aside>
+        </div>
+        <footer>&copy; 2026 - Universitas Pelita Bangsa</footer>
+    </div>
+</body>
+</html>
